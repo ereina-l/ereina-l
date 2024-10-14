@@ -1,4 +1,4 @@
-![ereina-l](https://github.com/user-attachments/assets/b407151c-9979-4dbd-a6c5-434897256c67)
+![sTUDENT AT 42 MALAGA](https://github.com/user-attachments/assets/d59964a5-097b-4350-812f-21bbcd842dbb)
 
 - 👋 Hi, I’m @ereina-l
 - 👀 I’m interested in programming, cybersecurity and videogames
