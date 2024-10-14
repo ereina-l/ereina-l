@@ -1,4 +1,4 @@
-                                 ![ereina-l](https://github.com/user-attachments/assets/88b9d21a-f0de-4ca2-bd58-2ba2c1a8b17f)
+![ereina-l](https://github.com/user-attachments/assets/88b9d21a-f0de-4ca2-bd58-2ba2c1a8b17f)
 
 - 👋 Hi, I’m @ereina-l
 - 👀 I’m interested in programming, cybersecurity and videogames
