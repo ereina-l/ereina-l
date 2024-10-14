@@ -1,3 +1,5 @@
+  <img align="right" alt="Coding" width="400" src="  <img align="right" alt="Coding" width="400" src="add your link 
+  here">">
 - 👋 Hi, I’m @ereina-l
 - 👀 I’m interested in programming, cybersecurity and videogames
 - 🌱 I’m currently learning C 
