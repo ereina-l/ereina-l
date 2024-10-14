@@ -1,4 +1,5 @@
-![Header](./[![ereina-l](https://github.com/user-attachments/assets/88b9d21a-f0de-4ca2-bd58-2ba2c1a8b17f)])
+![Header](./[![ereina-l](https://github.com/user-attachments/assets/b407151c-9979-4dbd-a6c5-434897256c67)
+])
 
 - 👋 Hi, I’m @ereina-l
 - 👀 I’m interested in programming, cybersecurity and videogames
