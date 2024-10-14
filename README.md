@@ -1,4 +1,6 @@
-   <img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAGTjnTUBqg/3m-O24OB7jGGPJIhE6OM6Q/view?utm_content=DAGTjnTUBqg&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+
+![ereina-l](https://github.com/user-attachments/assets/88b9d21a-f0de-4ca2-bd58-2ba2c1a8b17f)
+
 - 👋 Hi, I’m @ereina-l
 - 👀 I’m interested in programming, cybersecurity and videogames
 - 🌱 I’m currently learning C 
