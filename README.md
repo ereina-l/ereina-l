@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ereina-l
 - 👀 I’m interested in programming, cybersecurity and videogames
 - 🌱 I’m currently learning C 
-- 📫 How to reach me: you don't need to atm!
+- 📫 How to reach me: just don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love frogs
 
